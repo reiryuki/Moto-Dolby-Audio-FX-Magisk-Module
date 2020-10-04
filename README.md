@@ -14,6 +14,6 @@ but in "skip notification helper remover" please choose "yes"! If choose no, it 
 Reboot
 
 ### Attention!
-Do not install Audio Modification Library Module, because it will conflict with ACDB Module!
+This module doesn't support Audio Modification Library module.
 
 ### Download link bellow
