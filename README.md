@@ -4,7 +4,7 @@
 An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based Android Pie and up devices
 
 ## Guide
-- Install the module via Magisk Manager only
+- Install the module via Magisk Manager only.
 
 - This module supports Audio Modification Library module or [ACDB module](https://t.me/viperatmos) (choose one), but can be stand alone without it if you are not using multiple audio mods.
 
