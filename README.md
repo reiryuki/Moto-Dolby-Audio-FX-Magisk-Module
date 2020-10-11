@@ -16,4 +16,5 @@ An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any Android Pi
 
 - If this module still not working properly, remove/disable your built-in soundfx or deactivate the library and effect through your audio_effects.xml and audio_effects.conf!
 
-## Download link bellow at "Releases"
+## Download
+- Link bellow at "Releases"
