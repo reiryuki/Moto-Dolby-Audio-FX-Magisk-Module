@@ -1,19 +1,19 @@
-## Motorola Dolby Dax Audio FX Magisk Module
+# Moto Dolby DAX Audio FX Magisk Module
 
-Ported from Moto G Plus (sofiap_sprout) for all Android Pie and up devices
+## Descriptions
+An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any Android Pie and up devices
 
-### Guide
-Install the module via Magisk Manager only
+## Guide
+- Install the module via Magisk Manager only
 
-Install ACDB Module too
-https://t.me/redmi4aINT/1154066
+- This module supports Audio Modification Library module or [ACDB module](https://t.me/viperatmos) (choose one), but can be stand alone without it if you are not using multiple audio mods.
 
-Install Audio Compatibility Patch Module too at Magisk Download
-but in "skip notification helper remover" please choose "yes"! If choose no, it will conflict with ACDB Module.
+- You can install Audio Compatibility Patch module for processing all audio outputs, but in skip notification helper remover, if you choose 'no', then you must use Audio Modification Library module to prevent conflicts. Sometimes, ACP causes cracking sounds.
 
-Reboot
+- Don't use this module with another Dolby or Moto Waves!
 
-### Attention!
-This module doesn't support Audio Modification Library module.
+- Reboot
 
-### Download link bellow
+- If this module still not working properly, remove/disable your built-in soundfx or deactivate the library and effect through your audio_effects.xml and audio_effects.conf!
+
+## Download link bellow at "Releases"
