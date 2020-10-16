@@ -4,7 +4,9 @@
 An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based Android Pie and up devices
 
 ## Guide
-- Install the module via Magisk Manager only.
+- Uninstall another Dolby module first and reboot.
+
+- Install this module via Magisk Manager only.
 
 - This module supports Audio Modification Library module and [ACDB module](https://t.me/viperatmos) (choose one), but can be stand alone without it if you are not using multiple audio mods.
 
