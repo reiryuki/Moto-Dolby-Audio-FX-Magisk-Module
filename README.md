@@ -6,7 +6,7 @@ An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based
 ## Guide
 - Install the module via Magisk Manager only.
 
-- This module supports Audio Modification Library module or [ACDB module](https://t.me/viperatmos) (choose one), but can be stand alone without it if you are not using multiple audio mods.
+- This module supports Audio Modification Library module and [ACDB module](https://t.me/viperatmos) (choose one), but can be stand alone without it if you are not using multiple audio mods.
 
 - You can install Audio Compatibility Patch module for processing all audio outputs, but in skip notification helper remover, if you choose 'no', then you must use Audio Modification Library module to prevent conflicts. Sometimes, ACP causes cracking sounds.
 
