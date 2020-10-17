@@ -12,7 +12,7 @@ An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based
 
 - Reboot.
 
-- If this module still not working properly, remove/disable your built-in soundfx or deactivate the library and effect through your audio_effects.xml and audio_effects.conf!
+- If this module still not working properly, remove/disable your built-in soundfx or deactivate the library and effect through your audio_effects.xml and audio_effects.conf.
 
 ## Optional
 - Install Audio Modification Library module or [ACDB module](https://t.me/viperatmos) (choose one, don't use both!) if you want to use multiple audio mods together with Viper or Waves Maxx or any else.
