@@ -26,7 +26,7 @@ An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based
 
 - Please open issues with logcat if you got problems. Don't report anything without logcat!
 
-- Special thanks to @guitardedhero, @foxtrot47, and all people that helped and tested my modules.
+- Special thanks to @guitardedhero and all people that helped and tested my modules.
 
 - Free to cheat/kang my works, but please give a credit @reiryuki.
 
