@@ -1,7 +1,7 @@
 # Moto Dolby DAX Audio FX Magisk Module
 
 ## Descriptions
-An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based Android Pie and up devices
+An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based Android Pie and up devices.
 
 ## Guide
 - Install this module via Magisk Manager only.
@@ -10,7 +10,7 @@ An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based
 
 - Don't use this module with another Dolby module!
 
-- Reboot
+- Reboot.
 
 - If this module still not working properly, remove/disable your built-in soundfx or deactivate the library and effect through your audio_effects.xml and audio_effects.conf!
 
