@@ -6,7 +6,7 @@ An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based
 ## Guide
 - Install this module via Magisk Manager only.
 
-- You can install Audio Compatibility Patch module for processing all audio outputs, but in skip notification helper remover, if you choose 'no', then you must use Audio Modification Library module to prevent conflicts. Sometimes, ACP causes cracking sounds.
+- You can install [Audio Compatibility Patch Ryuki Mod](https://github.com/reiryuki/Audio-Compatibility-Patch-Ryuki-Mod) module for processing all audio outputs.
 
 - Don't use this module with another Dolby module!
 
