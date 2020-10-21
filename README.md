@@ -12,6 +12,8 @@ An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any AOSP based
 
 - Reboot.
 
+- If you encounter force close, reinstall again!
+
 - If this module still not working properly, remove/disable your built-in soundfx or deactivate the library and effect through your audio_effects.xml and audio_effects.conf.
 
 ## Optional
