@@ -4,6 +4,10 @@
 An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any Android 9, 10, and 11 devices. It's working on my AOSP based and Lineage based ROM.
 
 ## Guide
+- Remove another Dolby module
+
+- Reboot
+
 - Install this module via Magisk Manager only.
 
 - Don't use this module with another Dolby module!
@@ -24,8 +28,6 @@ An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any Android 9,
 
 ## Attention!
 - Always make nandroid backup before install or updating version, these are just experiments!
-
-- I only test this on my Redmi 4A rolex AOSP Android 10. Android 11 or other devices may not work.
 
 - Please open issues with logcat if you got problems. Don't report anything without logcat!
 
