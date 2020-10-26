@@ -3,16 +3,20 @@
 ## Descriptions
 An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any Android 9, 10, and 11 devices. It's working on my AOSP based and Lineage based ROM.
 
+## Requirements
+- Android 9, 10, or 11 devices
+- Magisk installed
+- If you can install and open this [Signature Test App](https://t.me/audioryukimods/24) normally, you are good to go.
+- Don't use with another Dolby module!
+
 ## Guide
 - Remove another Dolby module
 
 - Reboot
 
-- Install this module via Magisk Manager only.
+- Install this module via Magisk Manager only
 
-- Don't use this module with another Dolby module!
-
-- Reboot.
+- Reboot
 
 ## Troubleshooting
 - Use Audio Compatibility Patch if you encounter processing problem.
