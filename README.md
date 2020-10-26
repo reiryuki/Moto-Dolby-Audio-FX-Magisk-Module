@@ -1,7 +1,7 @@
 # Moto Dolby Audio FX Magisk Module
 
 ## Descriptions
-An equalizer ported from Motorola Moto G Plus (sofiap_sprout) for any Android 9, 10, and 11 devices.
+An equalizer ported from Motorola Moto G Plus (sofiap_sprout).
 
 ## Requirements
 - Android 9, 10, or 11 devices
