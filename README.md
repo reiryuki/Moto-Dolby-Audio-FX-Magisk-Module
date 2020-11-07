@@ -1,4 +1,4 @@
-# Moto Dolby Audio FX Magisk Module
+# Moto Dolby G Pro Audio FX Magisk Module
 
 ## Descriptions
 - An equalizer ported from Motorola Moto G Plus (sofiap_sprout).
