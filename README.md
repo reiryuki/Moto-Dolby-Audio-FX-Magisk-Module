@@ -7,7 +7,8 @@
 ## Requirements
 - Android 9, 10, or 11 devices
 - Magisk installed
-- If you can install and open this [Signature Test App](https://t.me/audioryukimods/24) normally, you are good to go.
+- Pass this [Signature Test App](https://t.me/audioryukimods/24)
+- If doesn't pass, by using APKTool PC, resign daxService.apk using your device framework platform keys.
 - Don't use with another Dolby module!
 
 ## Guide
