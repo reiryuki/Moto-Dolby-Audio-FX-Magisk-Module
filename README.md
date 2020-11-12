@@ -2,7 +2,7 @@
 
 ## Descriptions
 - An equalizer ported from Motorola Moto G Plus (sofiap_sprout).
-- Need standard Android signature to grant android.permission.INTERACT_ACROSS_USERS_FULL
+- No dynamic partitions
 
 ## Requirements
 - Android 9, 10, or 11 devices
