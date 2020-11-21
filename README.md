@@ -6,10 +6,8 @@
 
 ## Requirements
 - Android 9, 10, or 11 devices
+- 64 bit
 - Magisk installed
-- Pass this [Signature Test App](https://t.me/audioryukimods/24)
-- If doesn't pass, by using APKTool PC, resign daxService.apk using your device framework platform keys.
-- Don't use with another Dolby module!
 
 ## Guide
 - Remove another Dolby module
@@ -22,9 +20,8 @@
 - If Moto Dolby force close, reinstall again!
 
 ## Optional
-- Install Audio Modification Library module or [ACDB module](https://t.me/viperatmos) (Android 9 & 10 only) (choose one, don't use both!) if you using multiple audio mods together with Viper or Waves Maxx or any else.
-- Moto Dolby v1.2 and up can be working together with Moto Waves v2.0 and up. Use AML or ACDB for it.
-- You can rename dax-default to use more bass enhancer boost.
+- Install Audio Modification Library module or [ACDB module](https://t.me/viperatmos) (Android 10 and bellow only) (choose one, don't use both!) if you using multiple audio mods together with Viper or Waves Maxx or any else.
+- You can rename dax-default extension to .xml to use more bass enhancer boost. See /data/adb/modules_update/MotoDolby/system/vendor/etc/dolby/.
 
 ## Attention!
 - Always make nandroid backup before install or updating version, these are just experiments!
@@ -32,5 +29,5 @@
 - Special thanks to @guitardedhero and all people that helped and tested my modules.
 
 ## Download
-Link bellow at "Releases"
+- Link bellow at "Releases"
 
