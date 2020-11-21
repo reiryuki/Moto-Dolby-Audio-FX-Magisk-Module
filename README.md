@@ -16,8 +16,13 @@
 - Reboot
 
 ## Troubleshooting
+- If SE policy patch doesn't work for your device, send logcats to dev, then try using force permissive method.
+  Run at Terminal Emulator before flash:
+  `su`
+  `setprop dolby.force.permissive 1`
+- If Dolby force close, just reinstall again
+- Make sure manifest.xml is patched correctly
 - Use Audio Compatibility Patch if you encounter processing problem.
-- If Moto Dolby force close, reinstall again!
 
 ## Optional
 - Install Audio Modification Library module or [ACDB module](https://t.me/viperatmos) (Android 10 and bellow only) (choose one, don't use both!) if you using multiple audio mods together with Viper or Waves Maxx or any else.
@@ -25,9 +30,12 @@
 
 ## Attention!
 - Always make nandroid backup before install or updating version, these are just experiments!
-- Please open issues with logcat if you got problems. Don't report anything without logcat!
-- Special thanks to @guitardedhero and all people that helped and tested my modules.
+- Special thanks to all people that helped and tested my modules.
+- Reporting without send full logcats and install process logs is ignored!
+https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
 ## Download
 - Link bellow at "Releases"
+
+
 
