@@ -37,7 +37,8 @@
 - Reporting without send full logcats and install process logs is ignored!
 https://play.google.com/store/apps/details?id=com.dp.logcatapp
 
-## Groups discussion
+## Telegram
+- https://t.me/audioryukimods
 - https://t.me/joinchat/E-On6U9cxckhIlAnoPIYpw
 - https://t.me/modsandco
 
