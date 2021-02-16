@@ -3,6 +3,9 @@
 ## Descriptions
 - An equalizer ported from Motorola Moto G Plus (sofiap_sprout).
 
+## Screenshots
+- https://t.me/audioryukimods/2722
+
 ## Requirements
 - 64 bit architecture
 - Android 9, 10, or 11
