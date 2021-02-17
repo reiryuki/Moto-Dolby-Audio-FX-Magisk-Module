@@ -2,7 +2,7 @@
 
 ## Descriptions
 - An equalizer ported from Motorola Moto G Plus (sofiap_sprout)
-- Doesn't support AUX cable
+- Doesn't support auxiliary cable
 
 ## Screenshots
 - https://t.me/audioryukimods/2722
