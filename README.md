@@ -2,14 +2,13 @@
 
 ## Descriptions
 - An equalizer ported from Motorola Moto G Plus (sofiap_sprout)
-- Doesn't support auxiliary cable
 
 ## Screenshots
 - https://t.me/audioryukimods/2722
 
 ## Requirements
 - 64 bit architecture
-- Android 9, 10, or 11
+- Android 11, 10, or 9
 - Magisk installed
 
 ## Installation Guide
@@ -20,13 +19,13 @@
 - Reboot (reboot twice don't reflash, if you have Magisk sepolicy.rule bug)
 
 ## Optional
-- [Tap here](https://t.me/audioryukimods/2616)
+- https://t.me/audioryukimods/2616
 
 ## Troubleshootings
-- [Tap here](https://t.me/audioryukimods/2617)
+- https://t.me/audioryukimods/2617
 
 ## Report Guide
-- [Tap here](https://t.me/audioryukimods/2618)
+- https://t.me/audioryukimods/2618
 - If you don't do above, it will be closed immediately
 
 ## Attention!
@@ -39,11 +38,8 @@
 - @aquahol
 - @BanCodrut
 
-## Telegram
-- https://t.me/audioryukimods
-
 ## Supports
-- [Tap here](https://t.me/audioryukimods/2619)
+- https://t.me/audioryukimods/2619
 
 ## Donate
 - https://www.paypal.me/reiryuki
