@@ -38,20 +38,12 @@
 - @aquahol
 - @BanCodrut
 
-## Supports
+## Thanks for Donations
 - https://t.me/audioryukimods/2619
-
-## Donate
 - https://www.paypal.me/reiryuki
 
 ## Download
-- Tap "Releases" bellow
-
-
-
-
-
-           - Enjoy the Dolby 🎧 -
+- Tap "Releases" below
 
 
 
