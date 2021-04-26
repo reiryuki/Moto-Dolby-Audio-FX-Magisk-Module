@@ -2,6 +2,7 @@
 
 ## Descriptions
 - An equalizer ported from Motorola Moto G Plus (sofiap_sprout)
+- Global type soundfx
 
 ## Screenshots
 - https://t.me/audioryukimods/2722
