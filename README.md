@@ -9,7 +9,7 @@
 
 ## Requirements
 - 64 bit architecture
-- Android 11, 10, or 9
+- Android 9 until 12
 - Magisk installed
 
 ## Warning!!!
