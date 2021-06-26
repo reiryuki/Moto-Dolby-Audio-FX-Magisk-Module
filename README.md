@@ -5,7 +5,7 @@
 - Global type soundfx
 
 ## Screenshots
-- https://t.me/audioryukimods/2722
+- https://t.me/androidryukimodsdiscussions/2722
 
 ## Requirements
 - 64 bit architecture
